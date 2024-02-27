@@ -1,0 +1,7 @@
+{
+  "name": "proyecto-tradetalent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
